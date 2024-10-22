@@ -1,0 +1,21 @@
+.flex-container{
+    border: 2px solid red;
+    display: flex;
+    gap: 10px;
+    height: 200px;
+
+}
+.as{
+    border: 2px solid;
+    width: 100%;
+    
+}
+.flex-child-1{
+    align-self: center;
+}
+.flex-child-2{
+    align-self: flex-start;
+}
+.flex-child-3{
+    align-self: flex-end;
+}
